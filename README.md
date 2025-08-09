@@ -6,7 +6,7 @@ This repository contains the official logo files for the UsdtZelman (USDT.z) tok
 ## Project Information
 - **Token Name:** UsdtZelman (USDT.z)
 - **Blockchain:** Binance Smart Chain (BEP-20)
-- **Contract Address:** 
+- **Contract Address:** 0x97c85d397aeB9FE7F60AA767F539e609A8dee04f
 
 ## Logo Details
 - **Format:** SVG
